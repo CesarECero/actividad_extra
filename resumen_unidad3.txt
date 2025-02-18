@@ -1,0 +1,11 @@
+Unidad 3
+
+Introducción a controladores, uso de Git y GitHub
+
+En la unidad 3, logré entender que tenía un concepto muy básico de los controladores, ya que no conocía esta práctica para organizar
+proyectos con varias personas. Creo que es una herramienta muy útil para desarrollar programas en un entorno colaborativo. También 
+aprendí sobre el uso de GitHub para almacenar repositorios en la nube, lo cual es una fuente de información muy útil. GitHub permite
+almacenar proyectos que pueden ser actualizados por varias personas para corregir errores o mejorar funciones.
+
+La actividad 3 es muy útil, ya que pude simular la subida de datos a un repositorio, así como la actualización de un repositorio, y 
+entender cómo funcionan los controladores.

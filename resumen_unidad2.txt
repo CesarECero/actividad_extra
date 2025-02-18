@@ -1,0 +1,10 @@
+Unidad 2
+
+Introducción básica para iniciar a programar, condicionales y bucles en JavaScript.
+
+En esta unidad, entendimos algunos conceptos básicos para comenzar a programar. Primero, se habló sobre el sistema operativo que utilizaríamos
+ y las herramientas de trabajo para editar y escribir código (aunque no es totalmente necesario, ya que se puede escribir código en el bloc de notas). 
+Después, se abordaron herramientas básicas de JavaScript, como el correcto uso de condicionales y los usos extensivos de esta herramienta. También se 
+trató el control de bucles para repetir condicionales, entre otras cosas.
+
+Logré reforzar los conocimientos básicos que ya poseía, y me pareció que las actividades estaban acordes al nivel de explicación de esta unidad.
