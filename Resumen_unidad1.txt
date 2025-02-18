@@ -1,0 +1,19 @@
+Unidad 1
+
+Introducción a los números binarios y ASCII
+
+En la unidad 1, logré comprender la importancia de los números binarios y cómo son fundamentales en la informática, ya sea en
+electrónicos, almacenamiento de memoria, microprocesadores, circuitos y programación. Su característica más importante es que
+solo utilizan dos símbolos: 0 y 1. Otra característica es que cada posición en un número binario representa una potencia de 2. 
+entiendo que 2^8, 8 bits serían un total de 256 valores diferentes es decir el 255 en binario seria 11111111 8 unos luego de eso 
+necesitariamos otro espacio siendo un total de 9 bits 9^2 es decir 512 valores diferentes . 
+
+También entendí que el código ASCII es uno de los sistemas más usados para representar letras y símbolos en binario. Cada carácter
+tiene un número asociado en decimal, que luego se convierte a binario. Por ejemplo, la letra A mayúscula está asociada al número 
+65 en decimal, que en binario es 01000001.
+
+Me di cuenta de lo grandioso que es este sistema y un poco de su funcionamiento. Lo más interesante al realizar la primera actividad
+fue entender el sistema de bits y cómo se conforman los bytes, kilobytes, megabytes, y así sucesivamente. No logro entender del todo
+cómo toda la información se convierte de 0 y 1 a videos, música, etc. Sin embargo, he logrado entender cómo los 0 y 1 se convierten
+en números naturales y cómo también se pueden representar en letras del abecedario mediante el código ASCII y binario.
+
